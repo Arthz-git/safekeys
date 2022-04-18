@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "safekeys",
+    "slug": "safekeys",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./src/assets/images/app_icon.png",
+    "android": {
+      "package": "com.arthur.xuxu.safekeys"
+    }
+  }
+}
